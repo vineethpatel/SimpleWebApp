@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Hi This is CICD Project.... Tomorrow we are going to start Ansible With is Automation tool</h1>
+         <h1>Republic days offers available from 2PM to 5PM</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
