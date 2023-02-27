@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Flipkart Republic days limited offers available from 2PM to 5PM</h1>
+         <h1>Hi This is Simple CICD Project testing</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
