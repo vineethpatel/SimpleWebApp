@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Devali Mobile offers available... </h1>   
+         <h1> Devali Mobile offers available till 30th November2023... </h1>   
 	 
 
     </section>    
